@@ -1,0 +1,4 @@
+[core]
+    remote = ml-data
+['remote "ml-data"']
+    url = s3://mlops-vc/customerchurn
